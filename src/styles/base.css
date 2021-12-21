@@ -1,0 +1,22 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+label {
+    min-width: 10px;
+    display: inline-block;
+    padding: 10px;
+    text-align: right;
+}
+
+div, form{
+    padding: 20px;
+}
+  
+button{
+    width: 100px;
+    height: 40px;
+    font-size: medium;
+    font-weight: bold;
+}
